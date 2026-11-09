@@ -1,0 +1,11 @@
+---
+layout: none
+---
+# APIs.io Compliance
+
+> The attestations each provider states on its own trust page: SOC 2, ISO 27001, PCI DSS, HIPAA, FedRAMP and more. Every statement is quoted word for word from the provider's own page, with the page and the date it was read. Nothing is generated, and APIs.io verifies none of it.
+
+- [Compliance directory](https://apis.io/compliance/): every published document
+- [API Commons Compliance schema](https://github.com/api-commons/compliance): the format these documents use
+- [OSCAL](https://pages.nist.gov/OSCAL/): NIST's Open Security Controls Assessment Language
+- [CSA STAR](https://cloudsecurityalliance.org/star): the Cloud Security Alliance's Security, Trust, Assurance and Risk registry
