@@ -1,0 +1,353 @@
+---
+api_specs:
+- filename: keboola-actions-api-openapi.yml
+  format: yaml
+  label: Keboola Actions API
+  slug: keboola-actions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-actions-api-openapi.yml
+- filename: keboola-admin-apps-api-openapi.yml
+  format: yaml
+  label: Keboola Admin Apps API
+  slug: keboola-admin-apps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-admin-apps-api-openapi.yml
+- filename: keboola-admin-stacks-api-openapi.yml
+  format: yaml
+  label: Keboola Admin Stacks API
+  slug: keboola-admin-stacks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-admin-stacks-api-openapi.yml
+- filename: keboola-admin-users-api-openapi.yml
+  format: yaml
+  label: Keboola Admin Users API
+  slug: keboola-admin-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-admin-users-api-openapi.yml
+- filename: keboola-admin-vendors-api-openapi.yml
+  format: yaml
+  label: Keboola Admin Vendors API
+  slug: keboola-admin-vendors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-admin-vendors-api-openapi.yml
+- filename: keboola-app-api-openapi.yml
+  format: yaml
+  label: Keboola App API
+  slug: keboola-app-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-app-api-openapi.yml
+- filename: keboola-auth-api-openapi.yml
+  format: yaml
+  label: Keboola Auth API
+  slug: keboola-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-auth-api-openapi.yml
+- filename: keboola-authorize-api-openapi.yml
+  format: yaml
+  label: Keboola Authorize API
+  slug: keboola-authorize-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-authorize-api-openapi.yml
+- filename: keboola-configuration-api-openapi.yml
+  format: yaml
+  label: Keboola Configuration API
+  slug: keboola-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-configuration-api-openapi.yml
+- filename: keboola-configurations-jobs-api-openapi.yml
+  format: yaml
+  label: Keboola Configurations Jobs API
+  slug: keboola-configurations-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-configurations-jobs-api-openapi.yml
+- filename: keboola-consumers-api-openapi.yml
+  format: yaml
+  label: Keboola Consumers API
+  slug: keboola-consumers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-consumers-api-openapi.yml
+- filename: keboola-credentials-api-openapi.yml
+  format: yaml
+  label: Keboola Credentials API
+  slug: keboola-credentials-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-credentials-api-openapi.yml
+- filename: keboola-credits-api-openapi.yml
+  format: yaml
+  label: Keboola Credits API
+  slug: keboola-credits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-credits-api-openapi.yml
+- filename: keboola-deleted-projects-api-openapi.yml
+  format: yaml
+  label: Keboola Deleted Projects API
+  slug: keboola-deleted-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-deleted-projects-api-openapi.yml
+- filename: keboola-description-api-openapi.yml
+  format: yaml
+  label: Keboola Description API
+  slug: keboola-description-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-description-api-openapi.yml
+- filename: keboola-documentation-api-openapi.yml
+  format: yaml
+  label: Keboola Documentation API
+  slug: keboola-documentation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-documentation-api-openapi.yml
+- filename: keboola-duration-api-openapi.yml
+  format: yaml
+  label: Keboola Duration API
+  slug: keboola-duration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-duration-api-openapi.yml
+- filename: keboola-encrypt-api-openapi.yml
+  format: yaml
+  label: Keboola Encrypt API
+  slug: keboola-encrypt-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-encrypt-api-openapi.yml
+- filename: keboola-health-api-openapi.yml
+  format: yaml
+  label: Keboola Health API
+  slug: keboola-health-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-health-api-openapi.yml
+- filename: keboola-import-api-openapi.yml
+  format: yaml
+  label: Keboola Import API
+  slug: keboola-import-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-import-api-openapi.yml
+- filename: keboola-internal-api-openapi.yml
+  format: yaml
+  label: Keboola Internal API
+  slug: keboola-internal-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-internal-api-openapi.yml
+- filename: keboola-jobs-api-openapi.yml
+  format: yaml
+  label: Keboola Jobs API
+  slug: keboola-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-jobs-api-openapi.yml
+- filename: keboola-latest-configurations-jobs-api-openapi.yml
+  format: yaml
+  label: Keboola Latest Configurations Jobs API
+  slug: keboola-latest-configurations-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-latest-configurations-jobs-api-openapi.yml
+- filename: keboola-maintainers-api-openapi.yml
+  format: yaml
+  label: Keboola Maintainers API
+  slug: keboola-maintainers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-maintainers-api-openapi.yml
+- filename: keboola-marketplaces-api-openapi.yml
+  format: yaml
+  label: Keboola Marketplaces API
+  slug: keboola-marketplaces-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-marketplaces-api-openapi.yml
+- filename: keboola-migrate-api-openapi.yml
+  format: yaml
+  label: Keboola Migrate API
+  slug: keboola-migrate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-migrate-api-openapi.yml
+- filename: keboola-my-account-api-openapi.yml
+  format: yaml
+  label: Keboola My Account API
+  slug: keboola-my-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-my-account-api-openapi.yml
+- filename: keboola-orchestration-rerun-plan-api-openapi.yml
+  format: yaml
+  label: Keboola Orchestration Rerun Plan API
+  slug: keboola-orchestration-rerun-plan-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-orchestration-rerun-plan-api-openapi.yml
+- filename: keboola-organizations-api-openapi.yml
+  format: yaml
+  label: Keboola Organizations API
+  slug: keboola-organizations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-organizations-api-openapi.yml
+- filename: keboola-others-api-openapi.yml
+  format: yaml
+  label: Keboola Others API
+  slug: keboola-others-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-others-api-openapi.yml
+- filename: keboola-project-jobs-stats-api-openapi.yml
+  format: yaml
+  label: Keboola Project Jobs Stats API
+  slug: keboola-project-jobs-stats-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-project-jobs-stats-api-openapi.yml
+- filename: keboola-projects-api-openapi.yml
+  format: yaml
+  label: Keboola Projects API
+  slug: keboola-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-projects-api-openapi.yml
+- filename: keboola-public-api-api-openapi.yml
+  format: yaml
+  label: Keboola Public API
+  slug: keboola-public-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-public-api-api-openapi.yml
+- filename: keboola-queries-api-openapi.yml
+  format: yaml
+  label: Keboola Queries API
+  slug: keboola-queries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-queries-api-openapi.yml
+- filename: keboola-resolve-config-variables-api-openapi.yml
+  format: yaml
+  label: Keboola Resolve Config Variables API
+  slug: keboola-resolve-config-variables-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-resolve-config-variables-api-openapi.yml
+- filename: keboola-schedules-api-openapi.yml
+  format: yaml
+  label: Keboola Schedules API
+  slug: keboola-schedules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-schedules-api-openapi.yml
+- filename: keboola-service-api-openapi.yml
+  format: yaml
+  label: Keboola Service API
+  slug: keboola-service-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-service-api-openapi.yml
+- filename: keboola-sql-editor-api-openapi.yml
+  format: yaml
+  label: Keboola SQL Editor API
+  slug: keboola-sql-editor-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-sql-editor-api-openapi.yml
+- filename: keboola-super-commands-api-openapi.yml
+  format: yaml
+  label: Keboola SUPER - Commands API
+  slug: keboola-super-commands-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-super-commands-api-openapi.yml
+- filename: keboola-super-features-api-openapi.yml
+  format: yaml
+  label: Keboola SUPER - Features API
+  slug: keboola-super-features-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-super-features-api-openapi.yml
+- filename: keboola-super-file-storage-management-api-openapi.yml
+  format: yaml
+  label: Keboola SUPER - File Storage Management API
+  slug: keboola-super-file-storage-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-super-file-storage-management-api-openapi.yml
+- filename: keboola-super-kubernetes-api-openapi.yml
+  format: yaml
+  label: Keboola SUPER - Kubernetes API
+  slug: keboola-super-kubernetes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-super-kubernetes-api-openapi.yml
+- filename: keboola-super-storage-backends-management-api-openapi.yml
+  format: yaml
+  label: Keboola SUPER - Storage Backends Management API
+  slug: keboola-super-storage-backends-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-super-storage-backends-management-api-openapi.yml
+- filename: keboola-super-ui-management-api-openapi.yml
+  format: yaml
+  label: Keboola SUPER - UI Management API
+  slug: keboola-super-ui-management-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-super-ui-management-api-openapi.yml
+- filename: keboola-test-api-openapi.yml
+  format: yaml
+  label: Keboola Test API
+  slug: keboola-test-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-test-api-openapi.yml
+- filename: keboola-token-verification-api-openapi.yml
+  format: yaml
+  label: Keboola Token Verification API
+  slug: keboola-token-verification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-token-verification-api-openapi.yml
+- filename: keboola-users-api-openapi.yml
+  format: yaml
+  label: Keboola Users API
+  slug: keboola-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-users-api-openapi.yml
+- filename: keboola-variables-api-openapi.yml
+  format: yaml
+  label: Keboola Variables API
+  slug: keboola-variables-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-variables-api-openapi.yml
+- filename: keboola-vendor-api-openapi.yml
+  format: yaml
+  label: Keboola Vendor API
+  slug: keboola-vendor-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/keboola/openapi/keboola-vendor-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  attestations:
+  - framework: SOC1
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: null
+    text: SOC 1 Certified
+    type: certification
+  - framework: SOC2
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: null
+    text: SOC 2 Certified
+    type: certification
+  trust_center:
+    url: https://security.keboola.com/
+frameworks:
+- SOC1
+- SOC2
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: Keboola
+provenance_date: '2026-11-09'
+provider_name: Keboola
+provider_slug: keboola
+slug: keboola-compliance
+source_date: '2026-11-09'
+source_filename: keboola-compliance.yml
+source_heading: Compliance
+source_page: https://security.keboola.com/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: Keboola\naid: keboola\nurl: https://security.keboola.com/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  discovered_via:\n  - security/keboola-trust-center.yml\ntrust_center:\n  url: https://security.keboola.com/\nattestations:\n- framework: SOC1\n  type: certification\n  scope: null\n  period: null\n  issuer: null\n  report_access: unstated\n  text: SOC 1 Certified\n- framework: SOC2\n  type: certification\n  scope: null\n  period: null\n  issuer: null\n  report_access: unstated\n  text: SOC 2 Certified\n"
+source_yaml_url: https://artifacts.apis.io/keboola/compliance/keboola-compliance.yml
+stated_fields:
+- attestations
+summary_line: 2 quoted statements, read from Keboola's own page on 2026-11-09.
+synthetic: false
+tags:
+- Data Platform
+- ETL
+- ELT
+- Data Pipeline
+- Data Storage
+- Transformation
+- Orchestration
+- Data Operations
+- Cloud Data
+- Snowflake
+- BigQuery
+---

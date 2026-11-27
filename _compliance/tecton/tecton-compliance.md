@@ -1,0 +1,55 @@
+---
+claim_count: 2
+description: ''
+doc:
+  attestations:
+  - framework: SOC2
+    issuer: null
+    period: null
+    report_access: on_request
+    scope: null
+    text: SOC 2 Type II
+    type: Type II
+  - framework: ISO27001
+    issuer: null
+    period: null
+    report_access: on_request
+    scope: null
+    text: ISO 27001
+    type: null
+  trust_center:
+    url: https://docs.tecton.ai/docs/security
+frameworks:
+- ISO27001
+- SOC2
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: Tecton
+provenance_date: '2026-11-10'
+provider_name: Tecton
+provider_slug: tecton
+slug: tecton-compliance
+source_date: '2026-11-10'
+source_filename: tecton-compliance.yml
+source_heading: Compliance
+source_page: https://docs.tecton.ai/docs/security
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: Tecton\naid: tecton\nurl: https://docs.tecton.ai/docs/security\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ntrust_center:\n  url: https://docs.tecton.ai/docs/security\nattestations:\n- framework: SOC2\n  type: Type II\n  scope: null\n  period: null\n  issuer: null\n  report_access: on_request\n  text: SOC 2 Type II\n- framework: ISO27001\n  type: null\n  scope: null\n  period: null\n  issuer: null\n  report_access: on_request\n  text: ISO 27001\n"
+source_yaml_url: https://artifacts.apis.io/tecton/compliance/tecton-compliance.yml
+stated_fields:
+- attestations
+summary_line: 2 quoted statements, read from Tecton's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Machine Learning
+- Feature Store
+- Feature Platform
+- MLOps
+- Artificial Intelligence
+- Real-Time Data
+- SDK
+---

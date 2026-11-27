@@ -1,0 +1,315 @@
+---
+api_specs:
+- filename: tttech-auth-api-openapi.yml
+  format: yaml
+  label: TTTech AUTH API
+  slug: tttech-auth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-auth-api-openapi.yml
+- filename: tttech-capabilities-api-openapi.yml
+  format: yaml
+  label: TTTech CAPABILITIES API
+  slug: tttech-capabilities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-capabilities-api-openapi.yml
+- filename: tttech-codesys-process-api-openapi.yml
+  format: yaml
+  label: TTTech CODESYS PROCESS API
+  slug: tttech-codesys-process-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-codesys-process-api-openapi.yml
+- filename: tttech-configuration-api-openapi.yml
+  format: yaml
+  label: TTTech CONFIGURATION API
+  slug: tttech-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-configuration-api-openapi.yml
+- filename: tttech-data-exchange-api-openapi.yml
+  format: yaml
+  label: TTTech DATA EXCHANGE API
+  slug: tttech-data-exchange-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-data-exchange-api-openapi.yml
+- filename: tttech-datapath-api-openapi.yml
+  format: yaml
+  label: TTTech DATAPATH API
+  slug: tttech-datapath-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-datapath-api-openapi.yml
+- filename: tttech-dna-api-openapi.yml
+  format: yaml
+  label: TTTech DNA API
+  slug: tttech-dna-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-dna-api-openapi.yml
+- filename: tttech-docker-compose-file-api-openapi.yml
+  format: yaml
+  label: TTTech DOCKER COMPOSE FILE API
+  slug: tttech-docker-compose-file-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-docker-compose-file-api-openapi.yml
+- filename: tttech-docker-resources-images-api-openapi.yml
+  format: yaml
+  label: TTTech DOCKER RESOURCES IMAGES API
+  slug: tttech-docker-resources-images-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-docker-resources-images-api-openapi.yml
+- filename: tttech-docker-resources-volumes-api-openapi.yml
+  format: yaml
+  label: TTTech DOCKER RESOURCES VOLUMES API
+  slug: tttech-docker-resources-volumes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-docker-resources-volumes-api-openapi.yml
+- filename: tttech-emqx-api-openapi.yml
+  format: yaml
+  label: TTTech EMQX API
+  slug: tttech-emqx-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-emqx-api-openapi.yml
+- filename: tttech-initialization-api-openapi.yml
+  format: yaml
+  label: TTTech INITIALIZATION API
+  slug: tttech-initialization-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-initialization-api-openapi.yml
+- filename: tttech-internal-test-api-api-openapi.yml
+  format: yaml
+  label: TTTech INTERNAL TEST API
+  slug: tttech-internal-test-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-internal-test-api-api-openapi.yml
+- filename: tttech-label-api-openapi.yml
+  format: yaml
+  label: TTTech LABEL API
+  slug: tttech-label-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-label-api-openapi.yml
+- filename: tttech-ldap-api-openapi.yml
+  format: yaml
+  label: TTTech LDAP API
+  slug: tttech-ldap-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-ldap-api-openapi.yml
+- filename: tttech-nerve-docker-registry-api-openapi.yml
+  format: yaml
+  label: TTTech NERVE DOCKER REGISTRY API
+  slug: tttech-nerve-docker-registry-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-nerve-docker-registry-api-openapi.yml
+- filename: tttech-nerve-update-api-openapi.yml
+  format: yaml
+  label: TTTech NERVE UPDATE API
+  slug: tttech-nerve-update-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-nerve-update-api-openapi.yml
+- filename: tttech-node-api-openapi.yml
+  format: yaml
+  label: TTTech NODE API
+  slug: tttech-node-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-node-api-openapi.yml
+- filename: tttech-node-v2-api-openapi.yml
+  format: yaml
+  label: TTTech NODE V2 API
+  slug: tttech-node-v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-node-v2-api-openapi.yml
+- filename: tttech-notification-api-openapi.yml
+  format: yaml
+  label: TTTech NOTIFICATION API
+  slug: tttech-notification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-notification-api-openapi.yml
+- filename: tttech-proxy-settings-api-openapi.yml
+  format: yaml
+  label: TTTech PROXY SETTINGS API
+  slug: tttech-proxy-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-proxy-settings-api-openapi.yml
+- filename: tttech-remote-connections-api-openapi.yml
+  format: yaml
+  label: TTTech REMOTE CONNECTIONS API
+  slug: tttech-remote-connections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-remote-connections-api-openapi.yml
+- filename: tttech-repositories-api-openapi.yml
+  format: yaml
+  label: TTTech REPOSITORIES API
+  slug: tttech-repositories-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-repositories-api-openapi.yml
+- filename: tttech-service-os-dna-api-openapi.yml
+  format: yaml
+  label: TTTech SERVICE OS DNA API
+  slug: tttech-service-os-dna-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-service-os-dna-api-openapi.yml
+- filename: tttech-setup-network-api-openapi.yml
+  format: yaml
+  label: TTTech SETUP NETWORK API
+  slug: tttech-setup-network-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-setup-network-api-openapi.yml
+- filename: tttech-system-api-openapi.yml
+  format: yaml
+  label: TTTech SYSTEM API
+  slug: tttech-system-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-system-api-openapi.yml
+- filename: tttech-usage-reports-api-openapi.yml
+  format: yaml
+  label: TTTech USAGE REPORTS API
+  slug: tttech-usage-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-usage-reports-api-openapi.yml
+- filename: tttech-users-api-openapi.yml
+  format: yaml
+  label: TTTech USERS API
+  slug: tttech-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-users-api-openapi.yml
+- filename: tttech-wl-version-file-api-openapi.yml
+  format: yaml
+  label: TTTech WL VERSION FILE API
+  slug: tttech-wl-version-file-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-wl-version-file-api-openapi.yml
+- filename: tttech-wl-version-v2-api-openapi.yml
+  format: yaml
+  label: TTTech WL VERSION V2 API
+  slug: tttech-wl-version-v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-wl-version-v2-api-openapi.yml
+- filename: tttech-wl-version-v3-api-openapi.yml
+  format: yaml
+  label: TTTech WL VERSION V3 API
+  slug: tttech-wl-version-v3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-wl-version-v3-api-openapi.yml
+- filename: tttech-workload-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOAD API
+  slug: tttech-workload-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workload-api-openapi.yml
+- filename: tttech-workload-codesys-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOAD CODESYS API
+  slug: tttech-workload-codesys-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workload-codesys-api-openapi.yml
+- filename: tttech-workload-configuration-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOAD CONFIGURATION API
+  slug: tttech-workload-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workload-configuration-api-openapi.yml
+- filename: tttech-workload-v2-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOAD V2 API
+  slug: tttech-workload-v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workload-v2-api-openapi.yml
+- filename: tttech-workload-v3-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOAD V3 API
+  slug: tttech-workload-v3-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workload-v3-api-openapi.yml
+- filename: tttech-workloads-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOADS API
+  slug: tttech-workloads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workloads-api-openapi.yml
+- filename: tttech-workloads-backups-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOADS BACKUPS API
+  slug: tttech-workloads-backups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workloads-backups-api-openapi.yml
+- filename: tttech-workloads-compose-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOADS COMPOSE API
+  slug: tttech-workloads-compose-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workloads-compose-api-openapi.yml
+- filename: tttech-workloads-logs-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOADS LOGS API
+  slug: tttech-workloads-logs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workloads-logs-api-openapi.yml
+- filename: tttech-workloads-networks-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOADS NETWORKS API
+  slug: tttech-workloads-networks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workloads-networks-api-openapi.yml
+- filename: tttech-workloads-snapshots-api-openapi.yml
+  format: yaml
+  label: TTTech WORKLOADS SNAPSHOTS API
+  slug: tttech-workloads-snapshots-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/tttech/openapi/tttech-workloads-snapshots-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  attestations:
+  - framework: ISO9001
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: development of software and hardware solutions for safety-critical applications (TTControl, TTTECH Industrial, TTTECH Digital Solutions)
+    text: TTControl, TTTECH Industrial and TTTECH Digital Solutions are ISO 9001-certified for the development of software and hardware solutions for safety-critical applications.
+    type: certification
+  - framework: other
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: development of software and hardware for safety-critical applications in the aerospace industry
+    text: TTTECH Aerospace Division is certified according to EN/AS 9100.
+    type: certification (EN/AS 9100)
+  trust_center:
+    url: https://www.tttech.com/company/quality-and-standards
+frameworks:
+- ISO9001
+- other
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: TTTech
+provenance_date: '2026-11-10'
+provider_name: TTTech
+provider_slug: tttech
+slug: tttech-compliance
+source_date: '2026-11-10'
+source_filename: tttech-compliance.yml
+source_heading: Compliance
+source_page: https://www.tttech.com/company/quality-and-standards
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: TTTech\naid: tttech\nurl: https://www.tttech.com/company/quality-and-standards\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ntrust_center:\n  url: https://www.tttech.com/company/quality-and-standards\nattestations:\n- framework: ISO9001\n  type: certification\n  scope: development of software and hardware solutions for safety-critical applications (TTControl, TTTECH Industrial,\n    TTTECH Digital Solutions)\n  period: null\n  issuer: null\n  report_access: unstated\n  text: TTControl, TTTECH Industrial and TTTECH Digital Solutions are ISO 9001-certified for the development of\n    software and hardware solutions for safety-critical\
+  \ applications.\n- framework: other\n  type: certification (EN/AS 9100)\n  scope: development of software and hardware for safety-critical applications in the aerospace industry\n  period: null\n  issuer: null\n  report_access: unstated\n  text: TTTECH Aerospace Division is certified according to EN/AS 9100.\n"
+source_yaml_url: https://artifacts.apis.io/tttech/compliance/tttech-compliance.yml
+stated_fields:
+- attestations
+summary_line: 2 quoted statements, read from TTTech's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Industrial IoT
+- Edge Computing
+- Device Management
+- Deterministic Networking
+- Time-Sensitive Networking
+- Industrial Automation
+- Workload Orchestration
+- Embedded Systems
+- Safety Critical
+- OPC UA
+- MQTT
+- CODESYS
+- IEC 62443
+---

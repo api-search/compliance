@@ -1,0 +1,54 @@
+---
+claim_count: 2
+description: ''
+doc:
+  attestations:
+  - framework: ISO27001
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: Système de Gestion de la Sécurité de l’Information (ISMS)
+    text: La certification ISO 27001 atteste de notre Système de Gestion de la Sécurité de l’Information (Information Security Management System ISMS).
+    type: certification
+  - framework: GDPR
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: protection des données personnelles
+    text: Infomaniak respecte le RGPD et la LPD pour garantir la protection de vos données personnelles.
+    type: compliance statement
+  trust_center:
+    url: https://www.infomaniak.com/fr/trust-center
+frameworks:
+- GDPR
+- ISO27001
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: Infomaniak
+provenance_date: '2026-11-09'
+provider_name: Infomaniak
+provider_slug: infomaniak
+slug: infomaniak-compliance
+source_date: '2026-11-09'
+source_filename: infomaniak-compliance.yml
+source_heading: Compliance
+source_page: https://www.infomaniak.com/fr/trust-center
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: Infomaniak\naid: infomaniak\nurl: https://www.infomaniak.com/fr/trust-center\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ntrust_center:\n  url: https://www.infomaniak.com/fr/trust-center\nattestations:\n- framework: ISO27001\n  type: certification\n  scope: Système de Gestion de la Sécurité de l’Information (ISMS)\n  period: null\n  issuer: null\n  report_access: unstated\n  text: La certification ISO 27001 atteste de notre Système de Gestion de la Sécurité de l’Information (Information\n    Security Management System ISMS).\n- framework: GDPR\n  type: compliance statement\n  scope: protection des données personnelles\n  period:\
+  \ null\n  issuer: null\n  report_access: unstated\n  text: Infomaniak respecte le RGPD et la LPD pour garantir la protection de vos données personnelles.\n"
+source_yaml_url: https://artifacts.apis.io/infomaniak/compliance/infomaniak-compliance.yml
+stated_fields:
+- attestations
+summary_line: 2 quoted statements, read from Infomaniak's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Cloud
+- Hosting
+- Email
+- Video
+- Swiss
+---

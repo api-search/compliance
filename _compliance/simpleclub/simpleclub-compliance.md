@@ -1,0 +1,58 @@
+---
+claim_count: 2
+description: ''
+doc:
+  attestations:
+  - framework: ISO27001
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: Core platform and AI features
+    text: our commitment to information security and data protection is certified according to the internationally recognized ISO 27001 standard
+    type: Certification
+  - framework: GDPR
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: Core platform and AI features
+    text: all processes are designed for maximum security and GDPR compliance
+    type: Compliance
+  trust_center:
+    url: https://trust.simpleclub.com/
+frameworks:
+- GDPR
+- ISO27001
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: Simpleclub
+provenance_date: '2026-11-10'
+provider_name: Simpleclub
+provider_slug: simpleclub
+slug: simpleclub-compliance
+source_date: '2026-11-10'
+source_filename: simpleclub-compliance.yml
+source_heading: Compliance
+source_page: https://trust.simpleclub.com/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: Simpleclub\naid: simpleclub\nurl: https://trust.simpleclub.com/\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ntrust_center:\n  url: https://trust.simpleclub.com/\nattestations:\n- framework: ISO27001\n  type: Certification\n  scope: Core platform and AI features\n  period: null\n  issuer: null\n  report_access: unstated\n  text: our commitment to information security and data protection is certified according to the internationally\n    recognized ISO 27001 standard\n- framework: GDPR\n  type: Compliance\n  scope: Core platform and AI features\n  period: null\n  issuer: null\n  report_access: unstated\n  text: all processes are\
+  \ designed for maximum security and GDPR compliance\n"
+source_yaml_url: https://artifacts.apis.io/simpleclub/compliance/simpleclub-compliance.yml
+stated_fields:
+- attestations
+summary_line: 2 quoted statements, read from Simpleclub's own page on 2026-11-10.
+synthetic: false
+tags:
+- Company
+- Ai Enterprise Software
+- Education
+- E-Learning
+- EdTech
+- Learning Platform
+- Vocational Training
+- Artificial Intelligence
+- Software-as-a-Service
+- Germany
+---

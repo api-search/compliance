@@ -1,0 +1,49 @@
+---
+claim_count: 1
+description: ''
+doc:
+  attestations:
+  - framework: SOC2
+    issuer: independent CPA
+    period: null
+    report_access: on_request
+    scope: null
+    text: Our successful completion of the SOC 2 audit attests to our adherence to information security practices.
+    type: SOC 2 audit report
+  trust_center:
+    url: https://www.usekojo.com/security
+frameworks:
+- SOC2
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: Kojo Technologies
+provenance_date: '2026-11-09'
+provider_name: Kojo Technologies
+provider_slug: kojo-technologies
+slug: kojo-technologies-compliance
+source_date: '2026-11-09'
+source_filename: kojo-technologies-compliance.yml
+source_heading: Compliance
+source_page: https://www.usekojo.com/security
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: Kojo Technologies\naid: kojo-technologies\nurl: https://www.usekojo.com/security\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ntrust_center:\n  url: https://www.usekojo.com/security\nattestations:\n- framework: SOC2\n  type: SOC 2 audit report\n  scope: null\n  period: null\n  issuer: independent CPA\n  report_access: on_request\n  text: Our successful completion of the SOC 2 audit attests to our adherence to information security practices.\n"
+source_yaml_url: https://artifacts.apis.io/kojo-technologies/compliance/kojo-technologies-compliance.yml
+stated_fields:
+- attestations
+summary_line: 1 quoted statement, read from Kojo Technologies's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Construction
+- Construction Technology
+- Procurement
+- Supply Chain
+- Materials Management
+- Inventory
+- Accounts Payable
+- Field Service Management
+- Software-as-a-Service
+---

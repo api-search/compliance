@@ -1,0 +1,192 @@
+---
+api_specs:
+- filename: hud-ai-builds-api-openapi.yml
+  format: yaml
+  label: HUD Builds API
+  slug: hud-ai-builds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-builds-api-openapi.yml
+- filename: hud-ai-byok-credentials-api-openapi.yml
+  format: yaml
+  label: HUD Byok Credentials API
+  slug: hud-ai-byok-credentials-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-byok-credentials-api-openapi.yml
+- filename: hud-ai-checks-api-openapi.yml
+  format: yaml
+  label: HUD Checks API
+  slug: hud-ai-checks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-checks-api-openapi.yml
+- filename: hud-ai-completions-api-openapi.yml
+  format: yaml
+  label: HUD Completions API
+  slug: hud-ai-completions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-completions-api-openapi.yml
+- filename: hud-ai-data-api-openapi.yml
+  format: yaml
+  label: HUD Data API
+  slug: hud-ai-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-data-api-openapi.yml
+- filename: hud-ai-env-vars-api-openapi.yml
+  format: yaml
+  label: HUD Env Vars API
+  slug: hud-ai-env-vars-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-env-vars-api-openapi.yml
+- filename: hud-ai-imports-api-openapi.yml
+  format: yaml
+  label: HUD Imports API
+  slug: hud-ai-imports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-imports-api-openapi.yml
+- filename: hud-ai-inference-api-openapi.yml
+  format: yaml
+  label: HUD Inference API
+  slug: hud-ai-inference-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-inference-api-openapi.yml
+- filename: hud-ai-instances-api-openapi.yml
+  format: yaml
+  label: HUD Instances API
+  slug: hud-ai-instances-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-instances-api-openapi.yml
+- filename: hud-ai-jobs-api-openapi.yml
+  format: yaml
+  label: HUD Jobs API
+  slug: hud-ai-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-jobs-api-openapi.yml
+- filename: hud-ai-limits-api-openapi.yml
+  format: yaml
+  label: HUD Limits API
+  slug: hud-ai-limits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-limits-api-openapi.yml
+- filename: hud-ai-member-secrets-api-openapi.yml
+  format: yaml
+  label: HUD Member Secrets API
+  slug: hud-ai-member-secrets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-member-secrets-api-openapi.yml
+- filename: hud-ai-models-api-openapi.yml
+  format: yaml
+  label: HUD Models API
+  slug: hud-ai-models-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-models-api-openapi.yml
+- filename: hud-ai-oauth-api-openapi.yml
+  format: yaml
+  label: HUD OAuth API
+  slug: hud-ai-oauth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-oauth-api-openapi.yml
+- filename: hud-ai-qa-agents-api-openapi.yml
+  format: yaml
+  label: HUD Qa Agents API
+  slug: hud-ai-qa-agents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-qa-agents-api-openapi.yml
+- filename: hud-ai-qa-api-openapi.yml
+  format: yaml
+  label: HUD Qa API
+  slug: hud-ai-qa-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-qa-api-openapi.yml
+- filename: hud-ai-registry-api-openapi.yml
+  format: yaml
+  label: HUD Registry API
+  slug: hud-ai-registry-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-registry-api-openapi.yml
+- filename: hud-ai-rollouts-api-openapi.yml
+  format: yaml
+  label: HUD Rollouts API
+  slug: hud-ai-rollouts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-rollouts-api-openapi.yml
+- filename: hud-ai-storage-api-openapi.yml
+  format: yaml
+  label: HUD Storage API
+  slug: hud-ai-storage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-storage-api-openapi.yml
+- filename: hud-ai-tasks-api-openapi.yml
+  format: yaml
+  label: HUD Tasks API
+  slug: hud-ai-tasks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-tasks-api-openapi.yml
+- filename: hud-ai-tasksets-api-openapi.yml
+  format: yaml
+  label: HUD Tasksets API
+  slug: hud-ai-tasksets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-tasksets-api-openapi.yml
+- filename: hud-ai-teams-api-openapi.yml
+  format: yaml
+  label: HUD Teams API
+  slug: hud-ai-teams-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-teams-api-openapi.yml
+- filename: hud-ai-traces-api-openapi.yml
+  format: yaml
+  label: HUD Traces API
+  slug: hud-ai-traces-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-traces-api-openapi.yml
+- filename: hud-ai-usage-api-openapi.yml
+  format: yaml
+  label: HUD Usage API
+  slug: hud-ai-usage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hud-ai/openapi/hud-ai-usage-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attestations:
+  - framework: SOC2
+    issuer: null
+    period: null
+    report_access: on_request
+    scope: null
+    text: SOC 2 Type I Compliant
+    type: Type I
+  trust_center:
+    url: https://trust.hud.ai/
+frameworks:
+- SOC2
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: HUD
+provenance_date: '2026-11-09'
+provider_name: HUD
+provider_slug: hud-ai
+slug: hud-ai-compliance
+source_date: '2026-11-09'
+source_filename: hud-ai-compliance.yml
+source_heading: Compliance
+source_page: https://trust.hud.ai/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: HUD\naid: hud-ai\nurl: https://trust.hud.ai/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ntrust_center:\n  url: https://trust.hud.ai/\nattestations:\n- framework: SOC2\n  type: Type I\n  scope: null\n  period: null\n  issuer: null\n  report_access: on_request\n  text: SOC 2 Type I Compliant\n"
+source_yaml_url: https://artifacts.apis.io/hud-ai/compliance/hud-ai-compliance.yml
+stated_fields:
+- attestations
+summary_line: 1 quoted statement, read from HUD's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Artificial Intelligence
+- Reinforcement Learning
+- AI Evaluation
+- AI Agents
+- Benchmarks
+- Machine Learning
+- Training Data
+---

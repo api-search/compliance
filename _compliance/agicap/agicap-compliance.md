@@ -1,0 +1,370 @@
+---
+api_specs:
+- filename: agicap-account-reports-api-openapi.yml
+  format: yaml
+  label: Agicap Account reports API
+  slug: agicap-account-reports-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-account-reports-api-openapi.yml
+- filename: agicap-accrued-interests-api-openapi.yml
+  format: yaml
+  label: Agicap Accrued interests API
+  slug: agicap-accrued-interests-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-accrued-interests-api-openapi.yml
+- filename: agicap-analytical-plan-api-openapi.yml
+  format: yaml
+  label: Agicap Analytical Plan API
+  slug: agicap-analytical-plan-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-analytical-plan-api-openapi.yml
+- filename: agicap-anything-api-openapi.yml
+  format: yaml
+  label: Agicap Anything API
+  slug: agicap-anything-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-anything-api-openapi.yml
+- filename: agicap-authentication-api-openapi.yml
+  format: yaml
+  label: Agicap Authentication API
+  slug: agicap-authentication-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-authentication-api-openapi.yml
+- filename: agicap-bank-accounts-api-openapi.yml
+  format: yaml
+  label: Agicap Bank accounts API
+  slug: agicap-bank-accounts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-bank-accounts-api-openapi.yml
+- filename: agicap-bank-files-api-openapi.yml
+  format: yaml
+  label: Agicap Bank files API
+  slug: agicap-bank-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-bank-files-api-openapi.yml
+- filename: agicap-beta-api-openapi.yml
+  format: yaml
+  label: Agicap Beta API
+  slug: agicap-beta-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-beta-api-openapi.yml
+- filename: agicap-card-expenses-bank-journal-api-openapi.yml
+  format: yaml
+  label: Agicap Card expenses bank journal API
+  slug: agicap-card-expenses-bank-journal-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-card-expenses-bank-journal-api-openapi.yml
+- filename: agicap-causales-api-openapi.yml
+  format: yaml
+  label: Agicap Causales API
+  slug: agicap-causales-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-causales-api-openapi.yml
+- filename: agicap-client-addresses-api-openapi.yml
+  format: yaml
+  label: Agicap Client addresses API
+  slug: agicap-client-addresses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-client-addresses-api-openapi.yml
+- filename: agicap-client-credit-notes-api-openapi.yml
+  format: yaml
+  label: Agicap Client Credit Notes API
+  slug: agicap-client-credit-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-client-credit-notes-api-openapi.yml
+- filename: agicap-client-invoices-api-openapi.yml
+  format: yaml
+  label: Agicap Client Invoices API
+  slug: agicap-client-invoices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-client-invoices-api-openapi.yml
+- filename: agicap-client-quotes-api-openapi.yml
+  format: yaml
+  label: Agicap Client Quotes API
+  slug: agicap-client-quotes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-client-quotes-api-openapi.yml
+- filename: agicap-clients-api-openapi.yml
+  format: yaml
+  label: Agicap Clients API
+  slug: agicap-clients-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-clients-api-openapi.yml
+- filename: agicap-connections-api-openapi.yml
+  format: yaml
+  label: Agicap Connections API
+  slug: agicap-connections-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-connections-api-openapi.yml
+- filename: agicap-cookies-api-openapi.yml
+  format: yaml
+  label: Agicap Cookies API
+  slug: agicap-cookies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-cookies-api-openapi.yml
+- filename: agicap-credit-limit-api-openapi.yml
+  format: yaml
+  label: Agicap Credit limit API
+  slug: agicap-credit-limit-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-credit-limit-api-openapi.yml
+- filename: agicap-delivery-notes-api-openapi.yml
+  format: yaml
+  label: Agicap Delivery Notes API
+  slug: agicap-delivery-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-delivery-notes-api-openapi.yml
+- filename: agicap-dynamic-data-api-openapi.yml
+  format: yaml
+  label: Agicap Dynamic data API
+  slug: agicap-dynamic-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-dynamic-data-api-openapi.yml
+- filename: agicap-e-reporting-api-openapi.yml
+  format: yaml
+  label: Agicap E-Reporting API
+  slug: agicap-e-reporting-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-e-reporting-api-openapi.yml
+- filename: agicap-entities-api-openapi.yml
+  format: yaml
+  label: Agicap Entities API
+  slug: agicap-entities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-entities-api-openapi.yml
+- filename: agicap-export-api-openapi.yml
+  format: yaml
+  label: Agicap Export API
+  slug: agicap-export-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-export-api-openapi.yml
+- filename: agicap-external-contacts-api-openapi.yml
+  format: yaml
+  label: Agicap External contacts API
+  slug: agicap-external-contacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-external-contacts-api-openapi.yml
+- filename: agicap-financial-investments-api-openapi.yml
+  format: yaml
+  label: Agicap Financial investments API
+  slug: agicap-financial-investments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-financial-investments-api-openapi.yml
+- filename: agicap-financings-api-openapi.yml
+  format: yaml
+  label: Agicap Financings API
+  slug: agicap-financings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-financings-api-openapi.yml
+- filename: agicap-http-methods-api-openapi.yml
+  format: yaml
+  label: Agicap HTTP Methods API
+  slug: agicap-http-methods-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-http-methods-api-openapi.yml
+- filename: agicap-images-api-openapi.yml
+  format: yaml
+  label: Agicap Images API
+  slug: agicap-images-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-images-api-openapi.yml
+- filename: agicap-import-and-delete-api-openapi.yml
+  format: yaml
+  label: Agicap Import and delete API
+  slug: agicap-import-and-delete-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-import-and-delete-api-openapi.yml
+- filename: agicap-inbox-api-openapi.yml
+  format: yaml
+  label: Agicap Inbox API
+  slug: agicap-inbox-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-inbox-api-openapi.yml
+- filename: agicap-interests-statements-api-openapi.yml
+  format: yaml
+  label: Agicap Interests statements API
+  slug: agicap-interests-statements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-interests-statements-api-openapi.yml
+- filename: agicap-internal-contacts-api-openapi.yml
+  format: yaml
+  label: Agicap Internal contacts API
+  slug: agicap-internal-contacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-internal-contacts-api-openapi.yml
+- filename: agicap-invested-cash-api-openapi.yml
+  format: yaml
+  label: Agicap Invested cash API
+  slug: agicap-invested-cash-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-invested-cash-api-openapi.yml
+- filename: agicap-invoice-flows-api-openapi.yml
+  format: yaml
+  label: Agicap Invoice Flows API
+  slug: agicap-invoice-flows-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-invoice-flows-api-openapi.yml
+- filename: agicap-invoices-api-openapi.yml
+  format: yaml
+  label: Agicap Invoices API
+  slug: agicap-invoices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-invoices-api-openapi.yml
+- filename: agicap-manage-beneficiaries-api-openapi.yml
+  format: yaml
+  label: Agicap Manage beneficiaries API
+  slug: agicap-manage-beneficiaries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-manage-beneficiaries-api-openapi.yml
+- filename: agicap-proforma-invoices-api-openapi.yml
+  format: yaml
+  label: Agicap Proforma Invoices API
+  slug: agicap-proforma-invoices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-proforma-invoices-api-openapi.yml
+- filename: agicap-purchase-journal-api-openapi.yml
+  format: yaml
+  label: Agicap Purchase journal API
+  slug: agicap-purchase-journal-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-purchase-journal-api-openapi.yml
+- filename: agicap-purchase-orders-api-openapi.yml
+  format: yaml
+  label: Agicap Purchase Orders API
+  slug: agicap-purchase-orders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-purchase-orders-api-openapi.yml
+- filename: agicap-redirects-api-openapi.yml
+  format: yaml
+  label: Agicap Redirects API
+  slug: agicap-redirects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-redirects-api-openapi.yml
+- filename: agicap-request-inspection-api-openapi.yml
+  format: yaml
+  label: Agicap Request inspection API
+  slug: agicap-request-inspection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-request-inspection-api-openapi.yml
+- filename: agicap-response-formats-api-openapi.yml
+  format: yaml
+  label: Agicap Response formats API
+  slug: agicap-response-formats-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-response-formats-api-openapi.yml
+- filename: agicap-response-inspection-api-openapi.yml
+  format: yaml
+  label: Agicap Response inspection API
+  slug: agicap-response-inspection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-response-inspection-api-openapi.yml
+- filename: agicap-route-payment-files-api-openapi.yml
+  format: yaml
+  label: Agicap Route payment files API
+  slug: agicap-route-payment-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-route-payment-files-api-openapi.yml
+- filename: agicap-sales-orders-api-openapi.yml
+  format: yaml
+  label: Agicap Sales Orders API
+  slug: agicap-sales-orders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-sales-orders-api-openapi.yml
+- filename: agicap-statements-api-openapi.yml
+  format: yaml
+  label: Agicap Statements API
+  slug: agicap-statements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-statements-api-openapi.yml
+- filename: agicap-status-codes-api-openapi.yml
+  format: yaml
+  label: Agicap Status codes API
+  slug: agicap-status-codes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-status-codes-api-openapi.yml
+- filename: agicap-supplier-credit-notes-api-openapi.yml
+  format: yaml
+  label: Agicap Supplier Credit Notes API
+  slug: agicap-supplier-credit-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-supplier-credit-notes-api-openapi.yml
+- filename: agicap-supplier-invoices-api-openapi.yml
+  format: yaml
+  label: Agicap Supplier Invoices API
+  slug: agicap-supplier-invoices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-supplier-invoices-api-openapi.yml
+- filename: agicap-suppliers-api-openapi.yml
+  format: yaml
+  label: Agicap Suppliers API
+  slug: agicap-suppliers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-suppliers-api-openapi.yml
+- filename: agicap-user-rights-api-openapi.yml
+  format: yaml
+  label: Agicap User rights API
+  slug: agicap-user-rights-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-user-rights-api-openapi.yml
+- filename: agicap-webhooks-api-openapi.yml
+  format: yaml
+  label: Agicap Webhooks API
+  slug: agicap-webhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/agicap/openapi/agicap-webhooks-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  attestations:
+  - framework: SOC2
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: null
+    text: SOC2 type 2 report
+    type: SOC2 type 2 report
+  - framework: ISO27001
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: null
+    text: 'ISO 27001 : 2022'
+    type: 'ISO 27001 : 2022'
+  trust_center:
+    url: https://trust.agicap.com/
+frameworks:
+- ISO27001
+- SOC2
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: Agicap
+provenance_date: '2026-11-09'
+provider_name: Agicap
+provider_slug: agicap
+slug: agicap-compliance
+source_date: '2026-11-09'
+source_filename: agicap-compliance.yml
+source_heading: Compliance
+source_page: https://trust.agicap.com/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: Agicap\naid: agicap\nurl: https://trust.agicap.com/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\ntrust_center:\n  url: https://trust.agicap.com/\nattestations:\n- framework: SOC2\n  type: SOC2 type 2 report\n  scope: null\n  period: null\n  issuer: null\n  report_access: unstated\n  text: SOC2 type 2 report\n- framework: ISO27001\n  type: 'ISO 27001 : 2022'\n  scope: null\n  period: null\n  issuer: null\n  report_access: unstated\n  text: 'ISO 27001 : 2022'\n"
+source_yaml_url: https://artifacts.apis.io/agicap/compliance/agicap-compliance.yml
+stated_fields:
+- attestations
+summary_line: 2 quoted statements, read from Agicap's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Cash Management
+- Treasury
+- Payments
+- Banking
+- Accounts Receivable
+- E-Invoicing
+- Financial Services
+- Fintech
+- Applicative Saas
+---

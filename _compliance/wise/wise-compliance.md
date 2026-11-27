@@ -1,0 +1,367 @@
+---
+api_specs:
+- filename: wise-activity-api-openapi.yml
+  format: yaml
+  label: Wise Activity API
+  slug: wise-activity-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-activity-api-openapi.yml
+- filename: wise-address-api-openapi.yml
+  format: yaml
+  label: Wise Address API
+  slug: wise-address-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-address-api-openapi.yml
+- filename: wise-balance-api-openapi.yml
+  format: yaml
+  label: Wise Balance API
+  slug: wise-balance-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-balance-api-openapi.yml
+- filename: wise-balance-statement-api-openapi.yml
+  format: yaml
+  label: Wise Balance Statement API
+  slug: wise-balance-statement-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-balance-statement-api-openapi.yml
+- filename: wise-bank-account-details-api-openapi.yml
+  format: yaml
+  label: Wise Bank Account Details API
+  slug: wise-bank-account-details-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-bank-account-details-api-openapi.yml
+- filename: wise-batch-group-api-openapi.yml
+  format: yaml
+  label: Wise Batch Group API
+  slug: wise-batch-group-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-batch-group-api-openapi.yml
+- filename: wise-bulk-settlement-api-openapi.yml
+  format: yaml
+  label: Wise Bulk Settlement API
+  slug: wise-bulk-settlement-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-bulk-settlement-api-openapi.yml
+- filename: wise-card-api-openapi.yml
+  format: yaml
+  label: Wise Card API
+  slug: wise-card-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-card-api-openapi.yml
+- filename: wise-card-kiosk-collection-api-openapi.yml
+  format: yaml
+  label: Wise Card Kiosk Collection API
+  slug: wise-card-kiosk-collection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-card-kiosk-collection-api-openapi.yml
+- filename: wise-card-order-api-openapi.yml
+  format: yaml
+  label: Wise Card Order API
+  slug: wise-card-order-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-card-order-api-openapi.yml
+- filename: wise-card-sensitive-details-api-openapi.yml
+  format: yaml
+  label: Wise Card Sensitive Details API
+  slug: wise-card-sensitive-details-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-card-sensitive-details-api-openapi.yml
+- filename: wise-card-transaction-api-openapi.yml
+  format: yaml
+  label: Wise Card Transaction API
+  slug: wise-card-transaction-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-card-transaction-api-openapi.yml
+- filename: wise-case-api-openapi.yml
+  format: yaml
+  label: Wise Case API
+  slug: wise-case-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-case-api-openapi.yml
+- filename: wise-claim-account-api-openapi.yml
+  format: yaml
+  label: Wise Claim Account API
+  slug: wise-claim-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-claim-account-api-openapi.yml
+- filename: wise-comparison-api-openapi.yml
+  format: yaml
+  label: Wise Comparison API
+  slug: wise-comparison-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-comparison-api-openapi.yml
+- filename: wise-contact-api-openapi.yml
+  format: yaml
+  label: Wise Contact API
+  slug: wise-contact-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-contact-api-openapi.yml
+- filename: wise-currencies-api-openapi.yml
+  format: yaml
+  label: Wise Currencies API
+  slug: wise-currencies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-currencies-api-openapi.yml
+- filename: wise-delivery-estimate-api-openapi.yml
+  format: yaml
+  label: Wise Delivery Estimate API
+  slug: wise-delivery-estimate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-delivery-estimate-api-openapi.yml
+- filename: wise-digital-wallet-api-openapi.yml
+  format: yaml
+  label: Wise Digital Wallet API
+  slug: wise-digital-wallet-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-digital-wallet-api-openapi.yml
+- filename: wise-direct-debit-account-api-openapi.yml
+  format: yaml
+  label: Wise Direct Debit Account API
+  slug: wise-direct-debit-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-direct-debit-account-api-openapi.yml
+- filename: wise-disputes-api-openapi.yml
+  format: yaml
+  label: Wise Disputes API
+  slug: wise-disputes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-disputes-api-openapi.yml
+- filename: wise-facetec-api-openapi.yml
+  format: yaml
+  label: Wise Facetec API
+  slug: wise-facetec-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-facetec-api-openapi.yml
+- filename: wise-jose-api-openapi.yml
+  format: yaml
+  label: Wise Jose API
+  slug: wise-jose-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-jose-api-openapi.yml
+- filename: wise-kyc-review-api-openapi.yml
+  format: yaml
+  label: Wise Kyc Review API
+  slug: wise-kyc-review-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-kyc-review-api-openapi.yml
+- filename: wise-multi-currency-account-api-openapi.yml
+  format: yaml
+  label: Wise Multi Currency Account API
+  slug: wise-multi-currency-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-multi-currency-account-api-openapi.yml
+- filename: wise-oauth-token-api-openapi.yml
+  format: yaml
+  label: Wise OAUTH Token API
+  slug: wise-oauth-token-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-oauth-token-api-openapi.yml
+- filename: wise-payin-deposit-detail-api-openapi.yml
+  format: yaml
+  label: Wise Payin Deposit Detail API
+  slug: wise-payin-deposit-detail-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-payin-deposit-detail-api-openapi.yml
+- filename: wise-payins-api-openapi.yml
+  format: yaml
+  label: Wise Payins API
+  slug: wise-payins-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-payins-api-openapi.yml
+- filename: wise-profile-api-openapi.yml
+  format: yaml
+  label: Wise Profile API
+  slug: wise-profile-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-profile-api-openapi.yml
+- filename: wise-quote-api-openapi.yml
+  format: yaml
+  label: Wise Quote API
+  slug: wise-quote-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-quote-api-openapi.yml
+- filename: wise-rate-api-openapi.yml
+  format: yaml
+  label: Wise Rate API
+  slug: wise-rate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-rate-api-openapi.yml
+- filename: wise-recipient-api-openapi.yml
+  format: yaml
+  label: Wise Recipient API
+  slug: wise-recipient-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-recipient-api-openapi.yml
+- filename: wise-sca-device-fingerprints-api-openapi.yml
+  format: yaml
+  label: Wise Sca Device Fingerprints API
+  slug: wise-sca-device-fingerprints-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-sca-device-fingerprints-api-openapi.yml
+- filename: wise-sca-facemaps-api-openapi.yml
+  format: yaml
+  label: Wise Sca Facemaps API
+  slug: wise-sca-facemaps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-sca-facemaps-api-openapi.yml
+- filename: wise-sca-otp-api-openapi.yml
+  format: yaml
+  label: Wise Sca Otp API
+  slug: wise-sca-otp-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-sca-otp-api-openapi.yml
+- filename: wise-sca-ott-api-openapi.yml
+  format: yaml
+  label: Wise Sca Ott API
+  slug: wise-sca-ott-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-sca-ott-api-openapi.yml
+- filename: wise-sca-pin-api-openapi.yml
+  format: yaml
+  label: Wise Sca Pin API
+  slug: wise-sca-pin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-sca-pin-api-openapi.yml
+- filename: wise-sca-sessions-api-openapi.yml
+  format: yaml
+  label: Wise Sca Sessions API
+  slug: wise-sca-sessions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-sca-sessions-api-openapi.yml
+- filename: wise-simulation-api-openapi.yml
+  format: yaml
+  label: Wise Simulation API
+  slug: wise-simulation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-simulation-api-openapi.yml
+- filename: wise-spend-controls-api-openapi.yml
+  format: yaml
+  label: Wise Spend Controls API
+  slug: wise-spend-controls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-spend-controls-api-openapi.yml
+- filename: wise-spend-limits-api-openapi.yml
+  format: yaml
+  label: Wise Spend Limits API
+  slug: wise-spend-limits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-spend-limits-api-openapi.yml
+- filename: wise-transfer-api-openapi.yml
+  format: yaml
+  label: Wise Transfer API
+  slug: wise-transfer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-transfer-api-openapi.yml
+- filename: wise-user-api-openapi.yml
+  format: yaml
+  label: Wise User API
+  slug: wise-user-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-user-api-openapi.yml
+- filename: wise-user-security-api-openapi.yml
+  format: yaml
+  label: Wise User Security API
+  slug: wise-user-security-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-user-security-api-openapi.yml
+- filename: wise-verification-api-openapi.yml
+  format: yaml
+  label: Wise Verification API
+  slug: wise-verification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-verification-api-openapi.yml
+- filename: wise-webhook-api-openapi.yml
+  format: yaml
+  label: Wise Webhook API
+  slug: wise-webhook-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-webhook-api-openapi.yml
+- filename: wise-webhook-event-api-openapi.yml
+  format: yaml
+  label: Wise Webhook Event API
+  slug: wise-webhook-event-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-webhook-event-api-openapi.yml
+- filename: wise-3-ds-api-openapi.yml
+  format: yaml
+  label: Wise 3 DS API
+  slug: wise-3-ds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/wise/openapi/wise-3-ds-api-openapi.yml
+claim_count: 5
+description: ''
+doc:
+  attestations:
+  - framework: SOC1
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: null
+    text: Thanks to their SOC 1 type 2, SOC 2 type 2, PCI DSS, and ISO 27001 certifications.
+    type: type 2
+  - framework: SOC2
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: null
+    text: Thanks to their SOC 1 type 2, SOC 2 type 2, PCI DSS, and ISO 27001 certifications.
+    type: type 2
+  - framework: PCI-DSS
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: cardholder data security
+    text: Thanks to their SOC 1 type 2, SOC 2 type 2, PCI DSS, and ISO 27001 certifications.
+    type: null
+  - framework: ISO27001
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: null
+    text: Thanks to their SOC 1 type 2, SOC 2 type 2, PCI DSS, and ISO 27001 certifications.
+    type: certification
+  - framework: GDPR
+    issuer: null
+    period: null
+    report_access: unstated
+    scope: null
+    text: and GDPR compliance, you can feel confident entrusting Wise with all your transactions.
+    type: compliance
+  trust_center:
+    url: https://wise.com/us/blog/is-wise-business-safe
+frameworks:
+- GDPR
+- ISO27001
+- PCI-DSS
+- SOC1
+- SOC2
+layer: compliance
+layer_version: 0.1.0
+layout: compliance
+method: harvested
+model: claude-haiku-5-5
+name: Wise
+provenance_date: '2026-11-10'
+provider_name: Wise
+provider_slug: wise
+slug: wise-compliance
+source_date: '2026-11-10'
+source_filename: wise-compliance.yml
+source_heading: Compliance
+source_page: https://wise.com/us/blog/is-wise-business-safe
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ncompliance: 0.1.0\nprovider: Wise\naid: wise\nurl: https://wise.com/us/blog/is-wise-business-safe\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  discovered_via:\n  - security/wise-trust-center.yml\ntrust_center:\n  url: https://wise.com/us/blog/is-wise-business-safe\nattestations:\n- framework: SOC1\n  type: type 2\n  scope: null\n  period: null\n  issuer: null\n  report_access: unstated\n  text: Thanks to their SOC 1 type 2, SOC 2 type 2, PCI DSS, and ISO 27001 certifications.\n- framework: SOC2\n  type: type 2\n  scope: null\n  period: null\n  issuer: null\n  report_access: unstated\n  text: Thanks to their SOC 1 type 2, SOC 2 type 2, PCI DSS, and ISO 27001\
+  \ certifications.\n- framework: PCI-DSS\n  type: null\n  scope: cardholder data security\n  period: null\n  issuer: null\n  report_access: unstated\n  text: Thanks to their SOC 1 type 2, SOC 2 type 2, PCI DSS, and ISO 27001 certifications.\n- framework: ISO27001\n  type: certification\n  scope: null\n  period: null\n  issuer: null\n  report_access: unstated\n  text: Thanks to their SOC 1 type 2, SOC 2 type 2, PCI DSS, and ISO 27001 certifications.\n- framework: GDPR\n  type: compliance\n  scope: null\n  period: null\n  issuer: null\n  report_access: unstated\n  text: and GDPR compliance, you can feel confident entrusting Wise with all your transactions.\n"
+source_yaml_url: https://artifacts.apis.io/wise/compliance/wise-compliance.yml
+stated_fields:
+- attestations
+summary_line: 5 quoted statements, read from Wise's own page on 2026-11-10.
+synthetic: false
+tags:
+- Payments
+- Foreign Exchange
+- Cross-Border
+- Banking
+- Multi-Currency
+- Cross-Border Payments
+---
